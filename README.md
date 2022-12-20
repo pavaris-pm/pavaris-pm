@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pavaris Ruangchutiphophan</h1>
-<h3 align="center">My laziness is the predominant one, maybe more than a slot</h3>
+<h1 align="center">おはようございます!</h1>
+<h2 align="center">Hi 👋, I'm Pavaris Ruangchutiphophan</h2>
+<h3 align="center">My laziness is the predominant one, maybe more than a snail</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> </p>
 
