@@ -32,7 +32,6 @@
 
 ### My Personal Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaris-pm&show_icons=true&locale=en&layout=compact" alt="pavaris-pm" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavaris-pm&show_icons=true&locale=en" alt="pavaris-pm" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavaris-pm&" alt="pavaris-pm" /></p>
@@ -49,3 +48,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@aimalg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aimalg" height="60" width="60" /></a>
+</p>
+<br>
+
+
