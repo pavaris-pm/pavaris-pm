@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<p> https://medium.com/@AimAlg/ทำไม-numpy-array-ถึงน่าใช้กว่า-list-ในงานประเภท-data-science-part-1-67742ad0b5ac </p>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
