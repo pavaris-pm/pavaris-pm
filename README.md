@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> </p>
 
- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.hxB-nwNRFBSlxtmKS2a3pwHaEK%26pid%3DApi&f=1&ipt=f83435cf820c6b0b66c8ca2631088b735f0ae7814c3336eb3eeb3dd32627c551&ipo=images" alt="my_waifu_anime_character"/>
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.hxB-nwNRFBSlxtmKS2a3pwHaEK%26pid%3DApi&f=1&ipt=f83435cf820c6b0b66c8ca2631088b735f0ae7814c3336eb3eeb3dd32627c551&ipo=images" alt="my_waifu_anime_character" align="center"/>
 
 
 - 🔭 I’m currently studying at **Thammasat University**
@@ -25,7 +25,7 @@
 
 
 
-### Blogs posts
+### My Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <p> https://medium.com/@AimAlg/ทำไม-numpy-array-ถึงน่าใช้กว่า-list-ในงานประเภท-data-science-part-1-67742ad0b5ac </p>
 <!-- BLOG-POST-LIST:END -->
