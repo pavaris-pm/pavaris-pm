@@ -44,6 +44,7 @@
 
 ### My Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<p> https://medium.com/@AimAlg/ให้ทุกการค้นหาสะดวกขึ้นด้วย-search-engine-chatgpt-คอมโบสุดเทพแห่งโลกอนาคตที่น่าจับตามอง-ce526d13a09e </p>
 <p> https://medium.com/@AimAlg/ทำไม-numpy-array-ถึงน่าใช้กว่า-list-ในงานประเภท-data-science-part-1-67742ad0b5ac </p>
 <!-- BLOG-POST-LIST:END -->
 
