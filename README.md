@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
-- 👯 I’m looking to collaborate on **Research projects related to Natural Language Processing and Computer Vision**
+- 🚀 I’m looking to collaborate on **Research projects related to Natural Language Processing and Computer Vision**
 
 - 💬 Ask me about **Anime and manga would be a plus**
 
