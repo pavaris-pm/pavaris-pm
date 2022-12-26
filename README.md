@@ -1,6 +1,6 @@
 <h1 align="center">おはようございます!</h1>
 <h2 align="center">Hi 👋, I'm Pavaris Ruangchutiphophan </h2>
-<h3 align="center">My laziness is the predominant one, maybe more than a snail</h3>
+<h3 align="center">Whenever there is a hard job to be done, I assign it to a lazy man; he is sure to find an easy way of doing it.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> </p>
 
@@ -12,23 +12,58 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
-- 👯 I’m looking to collaborate on **Research projects**
+- 👯 I’m looking to collaborate on **Research projects related to Natural Language Processing and Computer Vision**
 
 - 💬 Ask me about **Anime and manga would be a plus**
 
 - 📫 How to reach me **moopreviboy@gmail.com**
 
-- ⚡ Fun fact **I'm a weeb**
+- ⚡ Fun fact **I'm a weeb who mainly interested in Manga, Anime and Cosplayers**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
 <img src="https://numpy.org/images/logo.svg" alt="numpy" width="60" height="60"/> </a> 
 <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="looker_studio" width="60" height="60"/> </a> 
-<img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png" alt="discord" width="60" height="60"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">  
+<img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png" alt="discord" width="60" height="60"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">  
 </p>
 
 <br>
+
+### Machine Learning and Deep learning experiences 
+<details>
+<summary> 
+Read more 🔍
+</summary>
+
+#### Image processing and Computer Vision    
+Topic | Dataset | Description | Year | Code
+------| ------- | ----------- | ---- | -----
+⚕️ Image Classification  | Optical Coherence Tomography image (Private) | Fine-tuned VGG16, ResNet18, AlexNet, and GoogleNet models to classify patients who have Diabetic Retinopathy (DR) disease | 2022 | Coming soon
+👨‍💻 Image Classification  | CIFAR-10 | Trained Convoluton Neural Network (CNN) model to classify images from CIFAR-10 dataset | 2022 | [Deployment repo](https://github.com/pavaris-pm/cnn-cifar10)
+
+ 
+#### Natural Language Processing (NLP)    
+Topic | Dataset | Description | Year | Code
+------| ------- | ----------- | ---- | -----
+🎞️ Sentiment Analysis  | GLUE-SST2 | Fine-tuned DistilBERT base uncased model from huggingface for sentiment analysis from movie reviews and human annotations of their sentiment | 2022 | [Deployment repo](https://github.com/pavaris-pm/The_Stanford_Sentiment_Treebank_Analysis-model)
+
+ 
+#### Data Science and Big Data Analytics    
+Topic | Dataset | Description | Year | Code
+------| ------- | ----------- | ---- | -----
+🏠 Asset Prediction | General information of Thai people (Private) |  Using XGBoost and LightBGM to predict Thai people asset based on their general information | 2022 | Coming soon
+🎓 Data Visualization  | The Essense school data (Private) | Created statistical report based on student's data provided by The Essense school using Looker studio (Google Data Studio)  | 2022 | Coming soon
+ 
+ 
+ #### IoTs and Robotics    
+Topic | Dataset | Description | Year | Code
+------| ------- | ----------- | ---- | -----
+🌡️ Temperature Prediction | Utu-noi sensors (Private) |  Using CatBoost and PyCaret to predict temperature based on data collected from Utu-noi sensors | 2022 | Coming soon
+
+ 
+</details>
+</br>
 
 ### My Personal Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaris-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pavaris-pm" /></p>
