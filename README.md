@@ -86,7 +86,7 @@ Topic | Dataset | Description | Year | Code
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@aimalg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aimalg" height="60" width="60" /></a>
+<a href="https://medium.com/@aimalg" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F3041%2FPNG%2F512%2Fmedium_logo_icon_189223.png&f=1&nofb=1&ipt=84a272e2e63280903debfe21fde9766dbb2712e76596348a211cadc7adc206c6&ipo=images" alt="@aimalg" height="70" width="70" /></a> <a href="https://open.spotify.com/playlist/6PlJYfJ0DKHrawGVZpLUpB?si=4T5EP-pySeaADzXiBxJE0A" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.magneticmag.com%2F.image%2Fc_limit%252Ccs_srgb%252Cq_auto%3Agood%252Cw_700%2FMTY1MTczMzk2MzUzNTkwNTg0%2Fspotify_icon_cmyk_green.png&f=1&nofb=1&ipt=7fedec92c0c4b11b767da73a4360e9e35b87c4b5d70b1f9fcc40b7662f967906&ipo=images" alt="pavaris-spotify" height="60" width="60" /></a>
 </p>
 <br>
 
