@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
-- 👯 I’m looking to collaborate on **Research**
+- 👯 I’m looking to collaborate on **Research projects**
 
 - 💬 Ask me about **Anime and manga would be a plus**
 
