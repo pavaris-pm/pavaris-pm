@@ -1,7 +1,8 @@
 <h1 align="center">おはようございます!</h1>
 <h2 align="center">Hi 👋, I'm Pavaris Ruangchutiphophan </h2>
-<h3 align="center" style="font-family:verdana">"Whenever there is a hard job to be done, assign it to a lazy man; he is sure to find an easy way of doing it"</h3>
-
+<p align='center'>
+<i align="center" style="font-family:verdana">"Whenever there is a hard job to be done, assign it to a lazy man; he is sure to find an easy way of doing it"</i>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> </p>
 
 <p align='center'>
@@ -39,6 +40,7 @@ Read more 🔍
 #### Image processing and Computer Vision    
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
+👨‍ Image Detection  | Face Images and videos | Developed program to detect human face and eyes using OpenCV library with HaarCascade Classfiers | 2022 | [Deployment repo](https://github.com/pavaris-pm/Human-Face-and-Eyes-Detection-)
 ⚕️ Image Classification  | Optical Coherence Tomography image (Private) | Fine-tuned VGG16, ResNet18, AlexNet, and GoogleNet models to classify patients who have Diabetic Retinopathy (DR) disease | 2022 | Coming soon
 👨‍💻 Image Classification  | CIFAR-10 | Trained Convoluton Neural Network (CNN) model to classify images from CIFAR-10 dataset | 2022 | [Deployment repo](https://github.com/pavaris-pm/cnn-cifar10)
 
