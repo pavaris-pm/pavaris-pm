@@ -1,6 +1,6 @@
 <h1 align="center">おはようございます!</h1>
 <h2 align="center">Hi 👋, I'm Pavaris Ruangchutiphophan </h2>
-<h3 align="center">Whenever there is a hard job to be done, I assign it to a lazy man; he is sure to find an easy way of doing it.</h3>
+<h3 align="center" style="font-family:verdana">"Whenever there is a hard job to be done, assign it to a lazy man; he is sure to find an easy way of doing it"</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> </p>
 
@@ -22,7 +22,7 @@
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="100" height="60"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
 <img src="https://numpy.org/images/logo.svg" alt="numpy" width="60" height="60"/> </a> 
 <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="looker_studio" width="60" height="60"/> </a> 
 <img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png" alt="discord" width="60" height="60"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">  
@@ -77,7 +77,7 @@ Topic | Dataset | Description | Year | Code
 <br>
 
 
-### My Blogs posts
+### My Blog posts
 <!-- BLOG-POST-LIST:START -->
 <p> https://medium.com/@AimAlg/ให้ทุกการค้นหาสะดวกขึ้นด้วย-search-engine-chatgpt-คอมโบสุดเทพแห่งโลกอนาคตที่น่าจับตามอง-ce526d13a09e </p>
 <p> https://medium.com/@AimAlg/ทำไม-numpy-array-ถึงน่าใช้กว่า-list-ในงานประเภท-data-science-part-1-67742ad0b5ac </p>
@@ -87,6 +87,8 @@ Topic | Dataset | Description | Year | Code
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@aimalg" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F3041%2FPNG%2F512%2Fmedium_logo_icon_189223.png&f=1&nofb=1&ipt=84a272e2e63280903debfe21fde9766dbb2712e76596348a211cadc7adc206c6&ipo=images" alt="@aimalg" height="70" width="70" /></a> <a href="https://open.spotify.com/playlist/6PlJYfJ0DKHrawGVZpLUpB?si=4T5EP-pySeaADzXiBxJE0A" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.magneticmag.com%2F.image%2Fc_limit%252Ccs_srgb%252Cq_auto%3Agood%252Cw_700%2FMTY1MTczMzk2MzUzNTkwNTg0%2Fspotify_icon_cmyk_green.png&f=1&nofb=1&ipt=7fedec92c0c4b11b767da73a4360e9e35b87c4b5d70b1f9fcc40b7662f967906&ipo=images" alt="pavaris-spotify" height="60" width="60" /></a>
+<br><br>
+<a href="https://myanimelist.net/profile/Pavarissy" target="blank"><img align="center" src="https://seeklogo.com/images/M/myanimelist-logo-C4BF433837-seeklogo.com.png" alt="@pavaris_myanimelist" height="40" width="200" left-margin:20 /></a>
 </p>
 <br>
 
