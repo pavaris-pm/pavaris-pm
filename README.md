@@ -54,7 +54,7 @@ Topic | Dataset | Description | Year | Code
 #### Data Science and Big Data Analytics    
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-🏠 Asset Prediction | General information of Thai people (Private) |  Using XGBoost and LightBGM to predict Thai people asset based on their general information | 2022 | Coming soon
+🏠 Asset Prediction | General information of Thai people (Private) |  Using XGBoost and LightGBM to predict Thai people asset based on their general information | 2022 | Coming soon
 🎓 Data Visualization  | The Essense school data (Private) | Created statistical report based on student's data provided by The Essense school using Looker studio (Google Data Studio)  | 2022 | Coming soon
  
  
