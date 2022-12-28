@@ -1,7 +1,7 @@
 <h1 align="center">おはようございます!</h1>
 <h2 align="center">Hi 👋, I'm Pavaris Ruangchutiphophan </h2>
 <p align='center'>
-<i align="center" style="font-family:verdana">"Whenever there is a hard job to be done, assign it to a lazy man; he is sure to find an easy way of doing it"</i>
+<i align="center">"Whenever there is a hard job to be done, assign it to a lazy man; he is sure to find an easy way of doing it"</i>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> </p>
 
