@@ -61,7 +61,7 @@ Topic | Dataset | Description | Year | Code
  #### IoTs and Robotics    
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-🌡️ Temperature Prediction | Utu-noi sensors (Private) |  Using CatBoost and PyCaret to predict temperature based on data collected from Utu-noi sensors | 2022 | Coming soon
+🌡️ Temperature Prediction | Utu-noi sensors (Private) |  Apply CatBoost and PyCaret to predict temperature based on data collected from Utu-noi sensors | 2022 | Coming soon
 
  
 </details>
