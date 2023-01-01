@@ -48,6 +48,7 @@ Topic | Dataset | Description | Year | Code
 #### Natural Language Processing (NLP)    
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
+🌍 Machine Translation | KDE4 | Fine-tuned transformer-align model to translate from thai to another language using huggingface's transformers | 2023 | [Deployment repo](https://github.com/pavaris-pm/machine-translation-from-th)
 🎞️ Sentiment Analysis  | GLUE-SST2 | Fine-tuned DistilBERT base uncased model from huggingface for sentiment analysis from movie reviews and human annotations of their sentiment | 2022 | [Deployment repo](https://github.com/pavaris-pm/The_Stanford_Sentiment_Treebank_Analysis-model)
 
  
