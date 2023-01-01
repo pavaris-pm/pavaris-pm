@@ -1,5 +1,6 @@
-<h1 align="center">おはようございます!</h1>
-<h2 align="center">Hi 👋, I'm Pavaris Ruangchutiphophan </h2>
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&center=true&multiline=true&width=500&height=80&lines=%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99;Hi+%F0%9F%91%8B%2C+I'm+Pavaris+Ruangchutiphophan;Nice+to+meet+you+!" alt="Typing SVG" /></a>
+</p>
 <p align='center'>
 <i align="center">"Whenever there is a hard job to be done, assign it to a lazy man; he is sure to find an easy way of doing it"</i>
 </p>
