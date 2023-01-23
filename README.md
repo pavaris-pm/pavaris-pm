@@ -41,8 +41,8 @@ Read more 🔍
 #### Image processing and Computer Vision    
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-👨‍ Image Detection  | Face Images and videos | Developed program to detect human face and eyes using OpenCV library with HaarCascade Classfiers | 2022 | [Deployment repo](https://github.com/pavaris-pm/Human-Face-and-Eyes-Detection-)
-⚕️ Image Classification  | Optical Coherence Tomography image (Private) | Fine-tuned VGG16, ResNet18, AlexNet, and GoogleNet models to classify patients who have Diabetic Retinopathy (DR) disease | 2022 | Coming soon
+👨‍ Object Detection  | Face Images and videos | Developed program to detect human face and eyes using OpenCV library with HaarCascade Classfiers | 2022 | [Deployment repo](https://github.com/pavaris-pm/Human-Face-and-Eyes-Detection-)
+⚕️ Image Classification & Image Localization  | Optical Coherence Tomography image (Private) | Fine-tuned VGG16, ResNet18, AlexNet, and GoogleNet models to classify and localize patients who have Diabetic Retinopathy (DR) disease | 2022 | Coming soon
 👨‍💻 Image Classification  | CIFAR-10 | Trained Convoluton Neural Network (CNN) model to classify images from CIFAR-10 dataset | 2022 | [Deployment repo](https://github.com/pavaris-pm/cnn-cifar10)
 
  
@@ -56,7 +56,7 @@ Topic | Dataset | Description | Year | Code
 #### Data Science and Big Data Analytics    
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-🏠 Asset Prediction | General information of Thai people (Private) |  Using XGBoost and LightGBM to predict Thai people asset based on their general information | 2022 | Coming soon
+🏠 Asset Prediction | Thai questionaire (Private) |  Using XGBoost and LightGBM to predict Thai people asset based on their general information | 2022 | Coming soon
 🎓 Data Visualization  | The Essense school data (Private) | Created statistical report based on student's data provided by The Essense school using Looker studio (Google Data Studio)  | 2022 | Coming soon
  
  
