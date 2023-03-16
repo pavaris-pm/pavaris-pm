@@ -32,7 +32,7 @@
 
 <br>
 
-### Machine Learning and Deep learning experiences 
+### Machine Learning and Deep learning experiences 🤖
 <details>
 <summary> 
 Read more 🔍
