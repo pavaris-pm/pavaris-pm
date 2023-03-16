@@ -69,6 +69,18 @@ Topic | Dataset | Description | Year | Code
 </details>
 </br>
 
+## Competitions ♟️
+<details>
+<summary> 
+Read more 🔍
+</summary>
+
+----- Coming Soon -----
+
+</details>
+</br>
+
+
 ### My Personal Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaris-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pavaris-pm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavaris-pm&show_icons=true&locale=en&theme=tokyonight" alt="pavaris-pm" /></p>
