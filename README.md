@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently studying at **Thammasat University, Thailand**
 
-- 🌱 I’m currently learning **Machine learning and Deep learning**
+- 🌱 I’m currently learning **Knowledge Graph-based Natural Language Processing**
 
 - 🚀 I’m looking to collaborate on **Research projects related to Natural Language Processing and Computer Vision**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **moopreviboy@gmail.com**
 
-- ⚡ Fun fact **I'm a weeb who mainly interested in Manga, Anime and Cosplayers**
+- ⚡ Fun fact **I'm a weeb who is mainly interested in Manga, Anime, and Cosplayers**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
