@@ -18,9 +18,12 @@
 
 - 💬 Ask me about **Anime and manga would be a plus**
 
-- 📫 How to reach me **moopreviboy@gmail.com**
+- 📫 How to reach me **pavaris.ruang@protonmail.com**
 
 - ⚡ Fun fact **I'm a weeb who is mainly interested in Manga, Anime, and Cosplayers**
+<br>
+
+[![An image of @pavarispm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavarispm)](https://holopin.io/@pavarispm)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
