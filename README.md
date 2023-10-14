@@ -85,7 +85,7 @@ Read more 🔍
 
 
 ### My Personal Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavaris-pm&theme=juicyfresh&row=2&column=5" alt="pavaris-pm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavaris-pm&theme=gruvbox&row=2&column=5" alt="pavaris-pm" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaris-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pavaris-pm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavaris-pm&show_icons=true&locale=en&theme=tokyonight" alt="pavaris-pm" /></p>
 <br>
