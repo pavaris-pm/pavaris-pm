@@ -23,6 +23,9 @@
 - ⚡ Fun fact **I'm a weeb who is mainly interested in Manga, Anime, and Cosplayers**
 <br>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavaris-pm&theme=ayu_mirage)
+
 [![An image of @pavarispm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavarispm)](https://holopin.io/@pavarispm)
 
 <br>
@@ -86,7 +89,7 @@ Read more 🔍
 
 ### My Personal Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavaris-pm&theme=gruvbox&row=2&column=5" alt="pavaris-pm" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaris-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pavaris-pm" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavaris-pm&theme=ayu_mirage" alt="pavaris-pm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavaris-pm&show_icons=true&locale=en&theme=gruvbox" alt="pavaris-pm" /></p>
 <br>
 
