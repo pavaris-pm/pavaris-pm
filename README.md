@@ -4,7 +4,9 @@
 <p align='center'>
 <i align="center">"Whenever there is a hard job to be done, assign it to a lazy man; he is sure to find an easy way of doing it"</i>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> </p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> 
+</p>
 
 <p align='center'>
  <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.hxB-nwNRFBSlxtmKS2a3pwHaEK%26pid%3DApi&f=1&ipt=f83435cf820c6b0b66c8ca2631088b735f0ae7814c3336eb3eeb3dd32627c551&ipo=images" alt="my_waifu_anime_character"/>
@@ -16,7 +18,7 @@
 
 - 🚀 I’m looking to collaborate on **Research projects related to Natural Language Processing and Computer Vision**
 
-- 💬 Ask me about **Anime and manga would be a plus**
+- 💬 Ask me about **Financial Investment would be a plus**
 
 - 📫 How to reach me **pavaris.ruang@protonmail.com**
 
@@ -88,6 +90,7 @@ Read more 🔍
 
 
 ### My Personal Stats
+[![pavaris-pm StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/15816365)](https://stackoverflow.com/users/15816365/xty)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavaris-pm&theme=gruvbox&row=2&column=5" alt="pavaris-pm" /></a> </p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavaris-pm&theme=ayu_mirage" alt="pavaris-pm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavaris-pm&show_icons=true&locale=en&theme=gruvbox" alt="pavaris-pm" /></p>
