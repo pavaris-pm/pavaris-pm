@@ -6,6 +6,7 @@
 </p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=pavaris-pm&label=Profile%20views&color=0e75b6&style=flat" alt="pavaris-pm" /> 
+ <a href="https://wakatime.com/@018b676e-8b74-4a93-87df-e7297a91138c"><img src="https://wakatime.com/badge/user/018b676e-8b74-4a93-87df-e7297a91138c.svg" alt="Total time coded since Oct 25 2023" /></a>
 </p>
 
 <p align='center'>
