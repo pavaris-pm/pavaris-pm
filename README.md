@@ -92,6 +92,8 @@ Read more 🔍
 
 ### My Personal Stats
 [![pavaris-pm StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/15816365)](https://stackoverflow.com/users/15816365/xty)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavaris-pm&theme=gruvbox&row=2&column=5" alt="pavaris-pm" /></a> </p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavaris-pm&theme=ayu_mirage" alt="pavaris-pm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavaris-pm&show_icons=true&locale=en&theme=gruvbox" alt="pavaris-pm" /></p>
