@@ -93,6 +93,15 @@ Read more 🔍
 ### My Personal Stats
 [![pavaris-pm StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/15816365)](https://stackoverflow.com/users/15816365/xty)
 <!--START_SECTION:waka-->
+
+```txt
+Python       6 hrs 14 mins   ███████████████████████▒░   93.81 %
+Text         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Git          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavaris-pm&theme=gruvbox&row=2&column=5" alt="pavaris-pm" /></a> </p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavaris-pm&theme=ayu_mirage" alt="pavaris-pm" /></p>
