@@ -13,8 +13,6 @@
  <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.hxB-nwNRFBSlxtmKS2a3pwHaEK%26pid%3DApi&f=1&ipt=f83435cf820c6b0b66c8ca2631088b735f0ae7814c3336eb3eeb3dd32627c551&ipo=images" alt="my_waifu_anime_character"/>
 </p>
 
-- 🔭 I’m currently studying at **Thammasat University, Thailand**
-
 - 🌱 I’m currently learning **Knowledge Graph-based Natural Language Processing**
 
 - 🚀 I’m looking to collaborate on **Research projects related to Natural Language Processing and Computer Vision**
@@ -41,7 +39,18 @@
 
 <br>
 
-### Machine Learning and Deep learning experiences 🤖
+### Work Experience ♟️ [will be added soon]
+<details>
+<summary> 
+Read more 🔍
+</summary>
+
+----- Coming Soon -----
+
+</details>
+</br>
+
+### Machine Learning and Deep learning experiences 🤖 [Last Update: January 2023]
 <details>
 <summary> 
 Read more 🔍
@@ -78,7 +87,7 @@ Topic | Dataset | Description | Year | Code
 </details>
 </br>
 
-## Competitions ♟️
+### Competitions ♟️ [will be added soon]
 <details>
 <summary> 
 Read more 🔍
