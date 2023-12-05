@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I'm a weeb who is mainly interested in Manga, Anime, and Cosplayers**
 <br>
 
-
+### Open Source Contributions Achievement 🏆 🌏
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavaris-pm&theme=ayu_mirage)
 
 [![An image of @pavarispm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavarispm)](https://holopin.io/@pavarispm)
