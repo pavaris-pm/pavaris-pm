@@ -25,7 +25,7 @@
 <br>
 
 ### Open Source Contributions Achievement 🏆 🌏
-[![committers.top badge](https://user-badge.committers.top/thailand_private/pavaris-pm.svg)](https://user-badge.committers.top/thailand_private/pavaris-pm)
+[![committers.top badge](https://user-badge.committers.top/thailand_public/pavaris-pm.svg)](https://user-badge.committers.top/thailand_public/pavaris-pm)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavaris-pm&theme=ayu_mirage)
 
