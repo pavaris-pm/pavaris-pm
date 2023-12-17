@@ -25,6 +25,8 @@
 <br>
 
 ### Open Source Contributions Achievement 🏆 🌏
+[![committers.top badge](https://user-badge.committers.top/thailand_private/pavaris-pm.svg)](https://user-badge.committers.top/thailand_private/pavaris-pm)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavaris-pm&theme=ayu_mirage)
 
 [![An image of @pavarispm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavarispm)](https://holopin.io/@pavarispm)
