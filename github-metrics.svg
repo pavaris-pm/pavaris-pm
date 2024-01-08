@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    38.5k added, 7.58k removed
+                                    38.9k added, 7.60k removed
                                 </div>
                             </section>
                             <section>
@@ -1607,7 +1607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Avaiga/taipy</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turns Data and AI algorithms into production-ready web applications in no time.</div>
@@ -1660,7 +1660,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IDEA-FinAI/ToG</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the official github repo of Think-on-Graph. If you are interested in our work or willing to join our research team in Shenzhen, please feel free to contact us by email (xuchengjin@idea.edu.cn)</div>
@@ -1707,7 +1707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m-bain/whisperX</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WhisperX:  Automatic Speech Recognition with Word-level Timestamps (&amp; Diarization)</div>
@@ -1760,7 +1760,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kyegomez/swarms-pytorch</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Swarming algorithms like PSO, Ant Colony, Sakana, and more in PyTorch 😊</div>
@@ -1817,7 +1817,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgUDBAf/xAAwEAABAwMCBQICCwAAAAAAAAABAgMEAAUREiEGEzFBUSKRFHEVFiMlYYGhscHw8f/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiFB/9oADAMBAAIRAxEAPwDl1rvKbNIdccbcUHGlI0p7ntvUj6yXf0feEj0p0Dft/e9b99iiS5iE0cKKdLad8HG/81ZtPBT6mW5PwLsjCRqZcUG8r1g7HPTGRR4Pvhl4G4jVIT8BNfZaKE/ZKVnU6snfKycZ/LfNM4cbktFLsl51ZUSVKXjPyHijfCXDf0VOclLUhzZxsHx6x09jvSupbl4WxZ0AW6VyJTboY5vLOcHGP9phYZDV4XdWHCY7DL/L08wo19yTv3NF+F20v3plhxILa8oI/DFPRbGOaE5XhSdZ3HX2pSNh1qpBmHEnXfiC7mJNdhRIh5DATuHHAepB2I6+48VVskly5WuPK9KVrThY8KGx/ar8CG1HfKmwrVg7k/KokOI1HkT2Gk6W25KgkeMgKP6k0WHLZ//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwQIBv/EAC0QAAEDAwMCBAUFAAAAAAAAAAECAwQABREGITESEwdRkbEIFSIjYTNBc4HR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMEEhMhUf/aAAwDAQACEQMRAD8Az3PVuCH+0MY5qm1aUvd8PchHvIIylQVsf8qXStkn6kuzdvtqA4+sFZKjgIA5JPlTho/Rd00s3HeclR5CHHCftKIDauCPTB3H78UD2i2sZAHPuEcm3vQZsyG+A4/C/XLZJCeB7moFTbek4JPqaSvEbwanWeDedQafuqbjbWkmQ8h1BbfDZ3J8jjO/B24oNUSo5q/H9kdR4+Gu3sJmXya9IZC0MJbbyoDO5J9hTxFdYaw4hSCFDIJPnxWetFKMR9/s7dSRnNdg1OkyHVJU8tCUkY7Z6D6jesrbfJqpqTX6ANxihKts633WNcJLLcKS0qM53HQPoWOg8n8msWSdFzo0p9hxTa1NOKbKkK2ODjam/UklxzS93byE9bRUpSdlKP5P9Cju2KPy+P8Axp9qVc5cXDyYgpqf/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwH/xAAlEAACAQMEAQQDAAAAAAAAAAABAgMABBEFEhNRMRQhImEykaH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EABkRAQEBAQEBAAAAAAAAAAAAAAEAEQMCIf/aAAwDAQACEQMRAD8ArEmgaMKze9K9SnMb4TwOqzuyABJD+uvo0mvvUbwwNXwpi3fWGa6EZkwO6aWTPJAGVdwzjNS43c3IFwR5BpzY3ca26ruCEeR91pHID9t9I5pEEJbkA6U4NG3VopGBgGj9BhRdPSQD5sME91tNEvVK4mEejrSVxAFYj+4oVrJs/EnFWj2kLJ7rQz2sQb8a6Rk+nL//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQcGAgP/xAArEAACAQMCBQMDBQAAAAAAAAABAwIEBREAEgYhMUFRBxMiF3GRYXKhsdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQB/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACESESUf/aAAwDAQACEQMRAD8AbRxxdYg7BVMnDGcMOAB55nv9tcu49vRaDBYGT8QwA/3qR3W0XS183UtNTU2ZQiwlPzPcA5Ocfc40bdbncLfP3615msrwoIqlEnA7gZx1ydUKxAEuNq4+uFE17Ku2U9QtssylGWMHGP8ABpX6grkcytD84HceBqC2mrvtdToZTxuL7eyJO5aZTGMnJOPBzpSF/vNPEQTQParrGTIyBI1m/YYSmqu3Btycy0UtqSpjI+3Fi1RE+fiY6HAz+c6y/qr6ZPVw5SDhhVbU7H/NbahREBMY6YByTy79Nb6y22klUBK0QQtjGTmEjZvO89caQuluTKjHtzagUw9yAVLaDiO4RPmOeeNUVp6OxFreXkzFmo0en3B1pbUhgYVLWUqaCN5G+fIx87znPgfrrxuvFdDU1s2yo0Pz0m6MYSI/bslj86TvN3qxwTbqndEtC19Ry5w0gmgp3qgxy4MZIc5ShHJ/jRaiODAN6z//2Q==" width="28" height="28" alt="" />
@@ -2269,7 +2269,7 @@ Hope this help!
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.45m out of 126m users</span>
+                                    <span class="gh">ranked 1.45m out of 127m users</span>
                                 </div>
                                 <div class="text">Published 31 public repositories</div>
                             </div>
@@ -2462,7 +2462,7 @@ Hope this help!
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 497k out of 126m users</span>
+                                    <span class="gh">ranked 497k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -2580,7 +2580,7 @@ Hope this help!
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.53m out of 46m repositories</span>
+                                    <span class="gh">ranked 2.60m out of 59.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2686,7 +2686,7 @@ Hope this help!
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.61m out of 46m repositories</span>
+                                    <span class="gh">ranked 2.61m out of 59.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2840,7 +2840,7 @@ Hope this help!
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jan 2024, 17:18:57 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jan 2024, 18:14:26 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
